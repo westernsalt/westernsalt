@@ -7,7 +7,7 @@
   𝙲𝚞𝚛𝚛. 𝙼𝚊𝚜𝚝𝚎𝚛 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝚂𝚘𝚘𝚔𝚖𝚢𝚞𝚗𝚐 𝚆𝚘𝚖𝚎𝚗'𝚜 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢.<br>
   𝙿𝚛𝚎𝚟. 𝙶𝚊𝚖𝚎 𝙴𝚗𝚐𝚒𝚗𝚎𝚎𝚛<br>
 </p>
-<h3 align="center"> 🍒 Technology Stack 🍒 </h3>
+<h3 align="center"> 🍒 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤 🍒 </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
