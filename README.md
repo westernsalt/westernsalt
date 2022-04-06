@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=ffac87&height=200&section=header&text=Hanseul%20Kim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Department%20of%20Software%20Convergence&descAlignY=51&descAlign=44)
 
-<h3 align="center"> Glad to seeya! </h3>
+<h3 align="center"> Ｇｌａｄ ｔｏ ｓｅｅｙａ! </h3>
 
 <p align="center">
   𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚝𝚒𝚜𝚝 𝚏𝚛𝚘𝚖 𝚁𝚎𝚙𝚞𝚋𝚕𝚒𝚌 𝚘𝚏 𝙺𝚘𝚛𝚎𝚊 <br>
