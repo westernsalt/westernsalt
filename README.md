@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hanseul Kim
 
-<!--
-**westernsalt/westernsalt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=waving&color=ffac87&height=200&section=header&text=Hanseul%20Kim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Department%20of%20Software%20Convergence&descAlignY=51&descAlign=44)
 
-Here are some ideas to get you started:
+![Python Badge](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![C++ Badge](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a>
+    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+  </a>
+  <a>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+  </a>
+</p>
+
+
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:uo3359@sookmyung.ac.kr) 
