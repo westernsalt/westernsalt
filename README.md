@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/PyTorch-ffffff?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>&nbsp
   <img src="https://img.shields.io/badge/tensorflow-ffffff?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>&nbsp
   <img src="https://img.shields.io/badge/scikitlearn-ffffff?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>&nbsp
+  <img src="https://img.shields.io/badge/MATLAB-ffffff?style=flat-square&logo=Databricks&logoColor=FF3621"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Spark-ffffff?style=flat-square&logo=apachespark&logoColor=E25A1C"/>&nbsp
   <img src="https://img.shields.io/badge/Hadoop-ffffff?style=flat-square&logo=apacheHadoop&logoColor=66CCFF"/>&nbsp
