@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=3766AB"/>&nbsp
   <img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=C%2B%2B&logoColor=00599C"/>&nbsp
   <img src="https://img.shields.io/badge/C-ffffff?style=flat-square&logo=C%2B%2B&logoColor=A8B9CC"/>&nbsp
+  <img src="https://img.shields.io/badge/CSharp-ffffff?style=flat-square&logo=Csharp&logoColor=A8B9CC"/>&nbsp
   <img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=JAVA&logoColor=FF7800"/>&nbsp
   <img src="https://img.shields.io/badge/Scala-ffffff?style=flat-square&logo=scala&logoColor=DC322F"/>&nbsp
   <br>
