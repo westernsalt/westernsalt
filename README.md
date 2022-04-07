@@ -9,18 +9,22 @@
 </p>
 <h3 align="center"> 🍒 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤 🍒 </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=3766AB"/>&nbsp
+  <img src="https://img.shields.io/badge/C++-ffffff?style=flat-square&logo=C%2B%2B&logoColor=00599C"/>&nbsp
   <img src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=JAVA&logoColor=FF7800"/>&nbsp
+  <img src="https://img.shields.io/badge/Scala-ffffff?style=flat-square&logo=scala&logoColor=DC322F"/>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/PyTorch-ffffff?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>&nbsp
   <img src="https://img.shields.io/badge/tensorflow-ffffff?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>&nbsp
+  <img src="https://img.shields.io/badge/scikitlearn-ffffff?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Spark-ffffff?style=flat-square&logo=apachespark&logoColor=E25A1C"/>&nbsp
   <img src="https://img.shields.io/badge/Hadoop-ffffff?style=flat-square&logo=apacheHadoop&logoColor=66CCFF"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-ffffff?style=flat-square&logo=mariaDB&logoColor=003545"/>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongoDB&logoColor=47A248"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Kubernetes-ffffff?style=flat-square&logo=kubernetes&logoColor=326CE5"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=Docker&logoColor=2496ED"/>&nbsp
