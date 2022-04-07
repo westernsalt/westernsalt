@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/MariaDB-ffffff?style=flat-square&logo=mariaDB&logoColor=003545"/>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongoDB&logoColor=47A248"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazon&logoColor=FF9900"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazonaws&logoColor=FF9900"/>&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-ffffff?style=flat-square&logo=kubernetes&logoColor=326CE5"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=Docker&logoColor=2496ED"/>&nbsp
   <br>
