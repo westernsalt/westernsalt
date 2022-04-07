@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f50&height=200&section=header&text=Hanseul%20Kim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Department%20of%20Software%20Convergence&descAlignY=51&descAlign=44)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff7f50&height=200&section=header&text=Hanseul%20Kim&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Department%20of%20Software%20Convergence&descAlignY=45&descAlign=44)
 
 <h3 align="center"> Ｇｌａｄ ｔｏ ｓｅｅｙａ! </h3>
 
