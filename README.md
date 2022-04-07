@@ -32,8 +32,11 @@
   <img src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=mysql&logoColor=4479A1"/>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-ffffff?style=flat-square&logo=mariaDB&logoColor=003545"/>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-ffffff?style=flat-square&logo=mongoDB&logoColor=47A248"/>&nbsp
+  <img src="https://img.shields.io/badge/Neo4j-ffffff?style=flat-square&logo=neo4j&logoColor=008CC1"/>&nbsp
   <br>
   <img src="https://img.shields.io/badge/AWS-ffffff?style=flat-square&logo=amazonaws&logoColor=FF9900"/>&nbsp
+  <img src="https://img.shields.io/badge/AmazonS3-ffffff?style=flat-square&logo=amazons3&logoColor=FF9900"/>&nbsp
+  <img src="https://img.shields.io/badge/AWSLambda-ffffff?style=flat-square&logo=awslambda&logoColor=FF9900"/>&nbsp
   <img src="https://img.shields.io/badge/Kubernetes-ffffff?style=flat-square&logo=kubernetes&logoColor=326CE5"/>&nbsp
   <img src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=Docker&logoColor=2496ED"/>&nbsp
   <br>
