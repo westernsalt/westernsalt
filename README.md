@@ -18,10 +18,6 @@
   <img src="https://img.shields.io/badge/Scala-ffffff?style=flat-square&logo=scala&logoColor=DC322F"/>&nbsp
   <img src="https://img.shields.io/badge/R-ffffff?style=flat-square&logo=R&logoColor=276DC3"/>&nbsp
   <br>
-  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=flat-square&logo=JavaScript&logoColor=F7DF1E"/>&nbsp
-  <img src="https://img.shields.io/badge/HTML-ffffff?style=flat-square&logo=html5&logoColor=E34F26"/>&nbsp
-  <img src="https://img.shields.io/badge/CSS-ffffff?style=flat-square&logo=css3&logoColor=1572B6"/>&nbsp
-  <br>
   <img src="https://img.shields.io/badge/PyTorch-ffffff?style=flat-square&logo=pytorch&logoColor=EE4C2C"/>&nbsp
   <img src="https://img.shields.io/badge/tensorflow-ffffff?style=flat-square&logo=tensorflow&logoColor=FF6F00"/>&nbsp
   <img src="https://img.shields.io/badge/scikitlearn-ffffff?style=flat-square&logo=scikitlearn&logoColor=F7931E"/>&nbsp
